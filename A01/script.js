@@ -28,3 +28,4 @@ independencia,
 dinheiroPraGastar,
 estabilidade;
 
+// exemplos acima.
